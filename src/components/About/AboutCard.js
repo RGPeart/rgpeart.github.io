@@ -1,6 +1,11 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { 
+  FaDumbbell, 
+  FaPlaneDeparture, 
+  FaCamera, 
+  FaDog 
+} from "react-icons/fa";
 
 function AboutCard() {
   return (
@@ -8,33 +13,38 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Ryan Peart</span>
-            from <span className="purple"> New York City, New York.</span>
+            Hi Everyone! My name is <span className="blue">Ryan Peart, </span>
+            and I currently live in <span className="blue"> New York City.</span>
             <br />
             I am currently employed as a Data Engineering Senior Analyst at Accenture.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            <br />
+            I was born and raised in Seattle, Washington.
+            <br />
+            I went to the University of Washington to receive my Bachelors of Science in Informatics.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from work, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Exercising
+              <FaDumbbell /> Exercising
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <FaPlaneDeparture /> Travelling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Dog Sitting
+              <FaCamera /> Photography
+            </li>
+            <li className="about-activity">
+              <FaDog /> Rover Dog Sitting
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          <p style={{ color: "rgb(64 161 206)" }}>
+            "Live every day like it is your last!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Ryan Peart</footer>
         </blockquote>
       </Card.Body>
     </Card>

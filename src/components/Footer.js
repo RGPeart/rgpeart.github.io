@@ -17,10 +17,11 @@ function Footer() {
           <h3>Designed and Developed by Ryan Peart</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} RP</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
+
             <li className="social-icons">
               <a
                 href="https://github.com/RGPeart"
@@ -31,18 +32,7 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            /*
-            <li className="social-icons">
-              <a
-                href="https://twitter.com/Soumyajit4419"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            */
+            
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/ryan-peart/"
@@ -53,6 +43,7 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
+            
             <li className="social-icons">
               <a
                 href="https://www.instagram.com/RGPeart"
