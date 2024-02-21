@@ -4,7 +4,6 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -19,37 +18,32 @@ function Home2() {
               LET ME <span className="blue"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with data engineering and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with data engineering, and I believe my passion has blossomed into a successful profession!
               <br />
-              <br />I am fluent in classics like
+              <br />
+              I am fluent in classics like
+              <b className="blue"> SQL and Python</b>
+              .
+              <br />
+              <br />
+              My main field of interests include developing new &nbsp;
               <i>
-                <b className="blue"> SQL and Python. </b>
+                <b className="blue">Pipelines and Data Products </b> 
+                in areas related to{" "}
+                <b className="blue">Finance, Life Sciences, and Public Transportation</b>
+                .
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="blue">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="blue">
-                  Blockchain.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="blue">Node.js</b> and
-              <i>
-                <b className="blue">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
+              Whenever possible, I try to apply my expertise for developing products with 
+              <b className="blue"> Gen AI </b> 
+              and
+              <b className="blue">{" "} Data Science Libraries</b>
               &nbsp; like
               <i>
-                <b className="blue"> React.js and Next.js</b>
+                <b className="blue"> TensorFlow and PyTorch</b>
               </i>
+              .
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -61,9 +55,7 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="blue">connect </span>with me
-            </p>
+
             <ul className="home-about-social-links">
 
               <li className="social-icons">
@@ -100,6 +92,11 @@ function Home2() {
               </li>
 
             </ul>
+
+            <p>
+              Feel free to <span className="blue">connect </span>with me
+            </p>
+
           </Col>
         </Row>
       </Container>

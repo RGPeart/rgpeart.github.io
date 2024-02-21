@@ -155,8 +155,8 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 3.0em !important;
+  width: 4.5em !important;
 }
 
 .navbar-nav .nav-link {
@@ -371,7 +371,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #186e7a;
+  background: #3d96df;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -379,13 +379,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #1f8d95;
+  box-shadow: 0 0 15px #36a2e0;
 }
 
 .home-social-icons:hover {
-  color: #20969e;
-  box-shadow: 0 0 5px #20969e;
-  text-shadow: 0 0 2px #20969e;
+  color: #40b1e6;
+  box-shadow: 0 0 5px #40b1e6;
+  text-shadow: 0 0 2px #40b1e6;
 }
 
 .social-icons {
