@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e02c40eb.css",
+    "main.js": "/portfolio/static/js/main.e42c735f.js",
+    "static/js/770.b477def6.chunk.js": "/portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "/portfolio/static/media/about.02a33775023f2b82fbe4.png",
+    "static/media/Ryan_Peart_Resume.pdf": "/portfolio/static/media/Ryan_Peart_Resume.7b8e2a823014f9d588fd.pdf",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.9845111819cab3445efff2db7b452929.svg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.9eda0aa42cea1f0263e591bdd9dd4b80.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.8ae7ed9e2fca12f35d04e7a51e587ed8.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.e02c40eb.css.map": "/portfolio/static/css/main.e02c40eb.css.map",
+    "main.e42c735f.js.map": "/portfolio/static/js/main.e42c735f.js.map",
+    "770.b477def6.chunk.js.map": "/portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02c40eb.css",
+    "static/js/main.e42c735f.js"
+  ]
+}
