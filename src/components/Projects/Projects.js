@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import MagicFormula from "../../Assets/Projects/MagicFormula.png";
 import ResyBot from "../../Assets/Projects/ResyBot.png";
-import MagicMirror from "../../Assets/Projects/MagicFormula.png";
+import MagicMirror from "../../Assets/Projects/MagicMirror.png";
 import TooGoodToGo from "../../Assets/Projects/TooGoodToGo.png";
 
 function Projects() {
