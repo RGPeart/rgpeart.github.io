@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9cb839c9.css",
-    "main.js": "/portfolio/static/js/main.490a1a4d.js",
+    "main.js": "/portfolio/static/js/main.6e9e1686.js",
     "static/js/770.b477def6.chunk.js": "/portfolio/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/TooGoodToGo.png": "/portfolio/static/media/TooGoodToGo.ad7b233e208ca7bc1cbf.png",
     "static/media/MagicFormula.png": "/portfolio/static/media/MagicFormula.2ce1ce639485196d4d7b.png",
     "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/ResyBot.png": "/portfolio/static/media/ResyBot.b42a0b88b963d8bcb7e4.png",
+    "static/media/MagicMirror.png": "/portfolio/static/media/MagicMirror.829607e5a18bb17a0de2.png",
     "static/media/about.png": "/portfolio/static/media/about.02a33775023f2b82fbe4.png",
     "static/media/Ryan_Peart_Resume.pdf": "/portfolio/static/media/Ryan_Peart_Resume.7b8e2a823014f9d588fd.pdf",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.e4cc10d5bc49934a7ad1.jpg",
@@ -17,12 +18,12 @@
     "index.html": "/portfolio/index.html",
     "static/media/pre.svg": "/portfolio/static/media/pre.cf5b895ecb75a7114916.svg",
     "main.9cb839c9.css.map": "/portfolio/static/css/main.9cb839c9.css.map",
-    "main.490a1a4d.js.map": "/portfolio/static/js/main.490a1a4d.js.map",
+    "main.6e9e1686.js.map": "/portfolio/static/js/main.6e9e1686.js.map",
     "770.b477def6.chunk.js.map": "/portfolio/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cb839c9.css",
-    "static/js/main.490a1a4d.js"
+    "static/js/main.6e9e1686.js"
   ]
 }
