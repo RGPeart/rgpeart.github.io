@@ -48,7 +48,7 @@ function Projects() {
               imgPath={ResyBot}
               isBlog={false}
               title="Resy Booking Bot"
-              description="Automated Resy booking bot, looking to 'snipe' reservations forhighly sought-after restaurants in your area."
+              description="Automated Resy booking bot, looking to 'snipe' reservations for highly sought-after restaurants in your area."
               ghLink="https://github.com/RGPeart/resy-booking-bot"
               //demoLink="https://editor.soumya-jit.tech/"              
             />
