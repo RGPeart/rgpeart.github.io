@@ -3,7 +3,7 @@
   <a href="https://rgpeart.github.io/portfolio" target="_blank">Visit Ryan's Portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.svg" />
 </div>
 
 <br/>
