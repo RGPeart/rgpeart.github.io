@@ -60,9 +60,12 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+   Runs the app in the development mode.\
+  Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  The page will reload if you make edits.
+
+3. If you are working in VS Code and are ready to deploy, you can run: `npm run deploy`
+
 
 ## Usage Instructions
 
