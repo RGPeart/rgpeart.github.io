@@ -36,9 +36,9 @@ function Projects() {
             <ProjectCard
               imgPath={MagicFormula}
               isBlog={false}
-              title="Magic Formula Stock Investing"
-              description="Python Script that will recommend a list of potential stocks to invest in. Decisions and logic are following the investment practices of Joel Greenblatt in his book titled 'The Little Book That Beats The Market'."
-              ghLink="https://github.com/RGPeart/jupyterNotebook/tree/master/Python_Projects/Magic-Formula"
+              title="Magic Formula Stock (Chat GPT) Investing Advisor"
+              description="Python Script that will recommend a list of potential stocks to invest in. Decisions and logic that follow the investment practices of Joel Greenblatt in his book titled 'The Little Book That Beats The Market'."
+              ghLink="https://github.com/RGPeart/magic-formula-ChatGPT"
               //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
